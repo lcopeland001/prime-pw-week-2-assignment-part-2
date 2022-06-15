@@ -26,10 +26,10 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We make a variable called name and set it to "Dane" as a string.
+// We check if the the name is equal to the value "Mary".
+// If the name is equal to "Mary" we console log "Hi, Mary!".
+// Dane is not equal to Mary so we console log "how do you do?".
 
 //CODE
 /*
@@ -45,9 +45,9 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
+// We make a variable called secret with no value
+// We make a variable called code and set it ro 123 as a number.
+// We check if code is equal to 123
 //
 
 //CODE
