@@ -45,10 +45,12 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// We make a variable called secret with no value
+// We make a variable called secret with no value.
 // We make a variable called code and set it ro 123 as a number.
-// We check if code is equal to 123
-//
+// We check if code is equal to 123. Code is equal to 123 therefore secret is assigned the 
+// value of "super" and code is assifned the value of code * 2.
+// If code is greater than 250, secret would be assigned the value of "duper".
+// Then we console log secret
 
 //CODE
 /*
@@ -70,8 +72,9 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// We make a variable called isStudent and set it to true as a boolean. 
+// We make a variable called age and set it to 34 as a number.
+// We make a variable called 
 // 
 //
 
