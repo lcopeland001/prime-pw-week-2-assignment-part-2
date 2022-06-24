@@ -150,7 +150,7 @@ if (mix === true) {
 
 /*
 let temp = 40;
-const time = 4;
+let time = 4;
 
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
@@ -165,10 +165,10 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
-  console.log('no entry');
+if(age >= minAge) {
+  console.log('entry');
 } else {
-  console.log('enter');
+  console.log('no enter');
 }
 */
 
