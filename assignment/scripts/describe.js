@@ -74,8 +74,10 @@ console.log(secret)
 // 3. WRITE YOUR DESCRIPTION HERE
 // We make a variable called isStudent and set it to true as a boolean. 
 // We make a variable called age and set it to 34 as a number.
-// We make a variable called 
-// 
+// We make a variable called zip and set it to 55407 as a number.
+// we check if isStudent is True and the Zip is greater than 80000
+// then console log 'You're a student on the West Coast!'
+//or if isStudent is True 
 //
 
 //CODE
@@ -116,7 +118,7 @@ if (isStudent === true && zip > 80000 ) {
 /*
 let number = 1;
 
-// FIX - number-- decrements number, but the instructions ask to increment. 
+// FIX - number--  decrements number, but the instructions ask to increment. 
 // Should be number++.
 number--; 
 
@@ -133,8 +135,8 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';  
+let colorTwo = 'red';   
 let mix = true;
 
 if (mix === true) {
